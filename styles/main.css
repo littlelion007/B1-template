@@ -201,7 +201,7 @@ footer{
   }
 
   .row{
-    flex-direction: column;
+    display: flex;
   }
   .sidy-by-side{
     flex-direction: column;
